@@ -2,16 +2,16 @@
 
  
 
- # In this project, it is possible to search Github Profiles, show profile details into a card format, then click the related button in the card and go to target profile's github account, also to see all other details. 
+  In this project, it is possible to search Github Profiles, show profile details into a card format, then click the related button in the card and go to target profile's github account, also to see all other details. 
 
 
-# Used Technologies: 
+ Used Technologies: 
 
-# • HTML5, 
+ • HTML5, 
 
-# • CSS,
+ • CSS,
 
-# • JAVASCRIPT
+ • JAVASCRIPT
 
 
 
